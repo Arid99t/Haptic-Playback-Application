@@ -1,0 +1,163 @@
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Asio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Core.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Midi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Wasapi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.WinForms.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.WinMM.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\System.Security.AccessControl.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\System.Security.Principal.Windows.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Asio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Core.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Midi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.Wasapi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.WinForms.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\NAudio.WinMM.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\System.Security.AccessControl.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\bin\Debug\System.Security.Principal.Windows.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_3.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_2.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_3.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_3.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGrou.AE3977B6.Up2Date
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy\obj\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Asio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Core.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Midi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Wasapi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.WinForms.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.WinMM.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\System.Security.AccessControl.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\System.Security.Principal.Windows.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Asio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Core.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Midi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.Wasapi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.WinForms.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\NAudio.WinMM.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_3.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_3.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_3.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGrou.AE3977B6.Up2Date
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\obj\Debug\PlayGroundApp_3.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\Syntacts.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2 - Copy - Copy\bin\Debug\Syntacts.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Asio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Core.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Midi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Wasapi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.WinForms.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.WinMM.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\Syntacts.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\System.Security.AccessControl.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\System.Security.Principal.Windows.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Asio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Core.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Midi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.Wasapi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.WinForms.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\NAudio.WinMM.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\Syntacts.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\System.Security.AccessControl.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\bin\Debug\System.Security.Principal.Windows.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_3.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_3.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_3.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_3.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGrou.AE3977B6.Up2Date
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5\obj\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Asio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Core.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Midi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Wasapi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.WinForms.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.WinMM.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\Syntacts.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\System.Security.AccessControl.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\System.Security.Principal.Windows.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Asio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Core.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Midi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.Wasapi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.WinForms.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\NAudio.WinMM.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\Syntacts.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\System.Security.AccessControl.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\bin\Debug\System.Security.Principal.Windows.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_3.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_3.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_3.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_3.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGrou.AE3977B6.Up2Date
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_5 - Copy\obj\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\Microsoft.Win32.Registry.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Asio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Core.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Midi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Wasapi.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.WinForms.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.WinMM.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\Syntacts.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\System.Security.AccessControl.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\System.Security.Principal.Windows.dll
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Asio.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Core.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Midi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.Wasapi.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.WinForms.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\NAudio.WinMM.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\Syntacts.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\System.Security.AccessControl.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\bin\Debug\System.Security.Principal.Windows.xml
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_3.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_3.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_3.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_3.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGrou.AE3977B6.Up2Date
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp\obj\Debug\PlayGroundApp_2.pdb

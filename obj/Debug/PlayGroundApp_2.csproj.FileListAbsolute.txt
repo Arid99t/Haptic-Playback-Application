@@ -1,0 +1,10 @@
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.csproj.AssemblyReference.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.MainForm.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.Properties.Resources.resources
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.csproj.GenerateResource.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.csproj.CoreCompileInputs.cache
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\bin\Debug\PlayGroundApp_2.exe.config
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\bin\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\bin\Debug\PlayGroundApp_2.pdb
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.exe
+E:\Project Playground\Project_Playground\PlaygroundApp\PlayGroundApp_2\obj\Debug\PlayGroundApp_2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGroundApp_3", "PlayGroundApp_3.csproj", "{F34ED640-B3B6-42F7-9743-7173874A929A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34ED640-B3B6-42F7-9743-7173874A929A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34ED640-B3B6-42F7-9743-7173874A929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34ED640-B3B6-42F7-9743-7173874A929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34ED640-B3B6-42F7-9743-7173874A929A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73E52E4-428E-4C66-A084-0708FF4436C3}
+	EndGlobalSection
+EndGlobal
